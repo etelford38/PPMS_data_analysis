@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-#Code to load, plot, analyze, and manipulate PPMS data and save plots/analyzed data
-#Authors: Evan Telford and Christie Koay
+#Code to load, plot, analyze, and manipulate PPMS data and save plots/analyzed data.
+#Authors: Evan Telford (ejt2133@columbia.edu) and Christie Koay (csk2172@columbia.edu).
 #Latest-update: March 24 2023
 """
 ##############################################################################################################################################################
