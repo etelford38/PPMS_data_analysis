@@ -7,7 +7,9 @@ Running the program:
 
 You will need to install a series of Python packages and a compiler (Spyder) to run the code.
 1.	Install Python. 
+
 a.	Mac: https://www.python.org/downloads/macos/
+
 b.	Windows: https://www.python.org/downloads/windows/
 
 2.	Install Anaconda (a Python environment manager which makes installing software more easily).
