@@ -8,18 +8,19 @@ Running the program:
 You will need to install a series of Python packages and a compiler (Spyder) to run the code.
 1.	Install Python. 
 
-a.	Mac: https://www.python.org/downloads/macos/
+Mac: https://www.python.org/downloads/macos/
 
-b.	Windows: https://www.python.org/downloads/windows/
+Windows: https://www.python.org/downloads/windows/
 
 2.	Install Anaconda (a Python environment manager which makes installing software more easily).
-a.	Mac: https://docs.anaconda.com/anaconda/install/mac-os/
-b.	Windows: https://docs.anaconda.com/anaconda/install/windows/#
+
+Mac: https://docs.anaconda.com/anaconda/install/mac-os/
+
+Windows: https://docs.anaconda.com/anaconda/install/windows/#
 
 3.	Create your own environment to install the relevant packages. 
-a.	Open the Python terminal. On Mac, this is simply opening the terminal. On Windows, this is opening the “Anaconda Prompt”.
-b.	Type: “conda create --name <insert desired environment name>”. This creates a new environment with your desired name. The name is arbitrary.
-c.	Type: “conda activate <name of your environment>”. This activates your environment. The name should be the same as the one you used in Step 3b. Any lines of code run after this will be run in your chosen environment. If you want to deactivate the environment and return to the default environment (called “root”), simply type “conda deactivate”. 
+
+Open the Python terminal. On Mac, this is simply opening the terminal. On Windows, this is opening the “Anaconda Prompt”. Type: “conda create --name <insert desired environment name>”. This creates a new environment with your desired name. The name is arbitrary. Type: “conda activate <name of your environment>”. This activates your environment. The name should be the same as the one you used in Step 3b. Any lines of code run after this will be run in your chosen environment. If you want to deactivate the environment and return to the default environment (called “root”), simply type “conda deactivate”. 
 
 For more details on creating environments:
 (https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
