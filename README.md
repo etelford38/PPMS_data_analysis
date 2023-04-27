@@ -25,22 +25,21 @@ Open the Python terminal. On Mac, this is simply opening the terminal. On Window
 For more details on creating environments:
 (https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
-4.	Install Spyder. Spyder is an integrated development environment (IDE) program where you can write, compile, and run python code. 
-a.	Type: “conda install spyder”.
-b.	Check your installation by running Spyder. Do this by typing “Spyder” into the terminal. It should open Spyder.
+4.	Install Spyder. 
+	
+Spyder is an integrated development environment (IDE) program where you can write, compile, and run python code. Type: “conda install spyder”. Check your installation by running Spyder. Do this by typing “Spyder” into the terminal. It should open Spyder.
   
 5.	Install a series of additional Python packages required to run the software.
-a.	Pandas (https://anaconda.org/anaconda/pandas).
-b.	Numpy (https://anaconda.org/anaconda/numpy).
-c.	Scipy (https://anaconda.org/anaconda/scipy).
-d.	Matplotlib (https://anaconda.org/conda-forge/matplotlib).
-e.	Pyqt5 (https://anaconda.org/anaconda/pyqt)
+
+	Pandas (https://anaconda.org/anaconda/pandas).
+	Numpy (https://anaconda.org/anaconda/numpy).
+	Scipy (https://anaconda.org/anaconda/scipy).
+	Matplotlib (https://anaconda.org/conda-forge/matplotlib).
+	Pyqt5 (https://anaconda.org/anaconda/pyqt)
   
 6.	Load the python script that launches the data analysis GUI.
-a.	Run Spyder by typing “spyder” in the terminal within your desired environment.
-b.	Within Spyder, open the data analysis program named “QD_data_analysis_v2.py”.
-c.	Click the run button (shaped like a “play” button).
-d.	The GUI should automatically launch.
+
+Run Spyder by typing “spyder” in the terminal within your desired environment. Within Spyder, open the data analysis program named “QD_data_analysis_v2.py”. Click the run button (shaped like a “play” button). The GUI should automatically launch.
 
 Note: if you run into issues in installing any of the above packages, try updating anaconda. 
 1.	In the “root” environment, type “conda update conda”.
