@@ -51,7 +51,7 @@ You will need to install a series of Python packages and a compiler (Spyder) to 
 	4.	Type “conda update --all”.
 	5.	Try reinstalling the package.
 
-#List of GUI functions:
+# List of GUI functions:
 	
 1.	Load PPMS Data: 
 	
@@ -113,7 +113,7 @@ You will need to install a series of Python packages and a compiler (Spyder) to 
 
 	Rename Tabs: Double clicking the tab title will open a new window that will allow you to enter a new name for the tab.
 
-#Data-file constraints:
+# Data-file constraints:
 	
 A brief description of the subfunction which loads the data is as follows:
 1.	Opens the selected file.
