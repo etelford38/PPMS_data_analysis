@@ -7,10 +7,8 @@ Written by Evan Telford (ejt2133@columbia.edu) and Christie Koay (csk2172@columb
 
 You will need to install a series of Python packages and a compiler (Spyder) to run the code.
 1.	Install Python. 
-
-	Mac: https://www.python.org/downloads/macos/
-
-	Windows: https://www.python.org/downloads/windows/
+	- Mac: https://www.python.org/downloads/macos/
+	- Windows: https://www.python.org/downloads/windows/
 
 2.	Install Anaconda (a Python environment manager which makes installing software more easily).
 
