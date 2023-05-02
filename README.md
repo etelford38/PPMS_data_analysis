@@ -101,7 +101,7 @@ Note: if you run into issues with installing any of the above packages, try upda
 A brief description of the subfunction which loads the data is as follows:
 1.	Opens the selected file.
 2.	Searches the file for a “[Data]” keyword.
-3.	Reads the file start from the line after the one containing “[Data]”. Reading is done assuming comma-demilimited text.
+3.	Reads the file start from the line after the one containing “[Data]”. Reading is done assuming comma-delimited text.
 4.	The first line after the one containing “[Data]” is set to be the header.
 5.	The remaining lines are saved as a data frame.
 
