@@ -40,11 +40,11 @@ You will need to install a series of Python packages and a compiler (Spyder) to 
 	- Click the run button (shaped like a “play” button). The GUI should automatically launch.
 
 Note: if you run into issues in installing any of the above packages, try updating anaconda. 
-	- In the “root” environment, type “conda update conda”.
-	- Type “conda update --all”.
-	- Activate your environment.
-	- Type “conda update --all”.
-	- Try reinstalling the package.
+- In the “root” environment, type “conda update conda”.
+- Type “conda update --all”.
+- Activate your environment.
+- Type “conda update --all”.
+- Try reinstalling the package.
 
 # List of GUI functions:
 	
