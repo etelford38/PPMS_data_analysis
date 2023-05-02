@@ -39,12 +39,12 @@ You will need to install a series of Python packages and a compiler (Spyder) to 
 	- Within Spyder, open the data analysis program named “PPMS_data_analysis.py”. 
 	- Click the run button (shaped like a “play” button). The GUI should automatically launch.
 
-	Note: if you run into issues in installing any of the above packages, try updating anaconda. 
-	1.	In the “root” environment, type “conda update conda”.
-	2.	Type “conda update --all”.
-	3.	Activate your environment.
-	4.	Type “conda update --all”.
-	5.	Try reinstalling the package.
+Note: if you run into issues in installing any of the above packages, try updating anaconda. 
+	- In the “root” environment, type “conda update conda”.
+	- Type “conda update --all”.
+	- Activate your environment.
+	- Type “conda update --all”.
+	- Try reinstalling the package.
 
 # List of GUI functions:
 	
