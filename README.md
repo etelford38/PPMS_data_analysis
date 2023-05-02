@@ -93,7 +93,7 @@ Note: if you run into issues with installing any of the above packages, try upda
 	Note: To save the plot as an image file, use the save button on the toolbar above the graph.
 
 10.	Additional functions:
-	- Making plots with multiple traces or creating new plots: The folder icon adds traces to the same plot, or create a new plot.
+	- Making plots with multiple traces or creating new plots: The folder icon adds traces to the same plot, or creates a new plot.
 	- Rename Tabs: Double clicking the tab title will open a new window that will allow you to enter a new name for the tab.
 
 # Data-file constraints:
